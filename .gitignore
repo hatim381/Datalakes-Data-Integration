@@ -1,0 +1,28 @@
+# =========================
+# 📁 Ignorer les datasets
+# =========================
+# Fichiers et dossiers de données téléchargés
+spotify_million_playlist_dataset
+spotify_million_playlist_dataset.zip
+
+# =========================
+# 🧪 Fichiers Jupyter
+# =========================
+.ipynb_checkpoints/
+*.ipynb_save
+*.ipynb_temp
+
+# =========================
+# ⚙️ Fichiers système / IDE
+# =========================
+.vscode/
+__pycache__/
+*.pyc
+.DS_Store
+
+# =========================
+# 🔐 Fichiers sensibles
+# =========================
+.env
+*.key
+*.pem
